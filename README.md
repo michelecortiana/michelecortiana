@@ -1,4 +1,4 @@
-
+<img src="gengar.gif" width="100%" style="aspect-ratio: 2 / 1; object-fit: contains;">
  
 # Hello, I'm Michele! 👋
 > Welcome to my GitHub profile! 😄  
