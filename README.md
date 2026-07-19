@@ -27,10 +27,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=michelecortiana&show_icons=true&theme=dark" alt="Michele's GitHub Stats">
-</p>
-
+[![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelecortiana&show_icons=true&theme=dark)](https://github.com/michelecortiana)
 <br>
 
 > [!NOTE]
