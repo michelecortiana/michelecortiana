@@ -1,33 +1,41 @@
 # Hello, I'm Michele! 👋
 
-> Welcome to my GitHub profile! 😄  
-> I am a Computer Engineering student at the University of Padua, passionate about IT infrastructure, low-level systems, and operational problem-solving. 🚀
+> Welcome to my GitHub profile.  
+> I am a Computer Engineering student at the University of Padua, deeply passionate about IT infrastructure, low-level systems, and operational problem-solving.
 
 <br>
 
 ### 👨‍💻 About Me
 
-- 🎓 **Studying:** First-year Computer Engineering at the University of Padua.
-- ⚙️ **Focus:** Strong interest in hardware troubleshooting, network mapping, and server management.
-- 🚧 **Currently Working On:** Developing a custom C compiler for ARM on Windows, focusing on the x86_64 backend code generator (Work in Progress).
-- 🌱 **Learning:** Deepening my knowledge in Machine Learning (Python, TensorFlow) and Database Management (SQL).
+- 🎓 **Studying:** Computer Engineering at the University of Padua.
+- ⚙️ **Focus:** Hardware troubleshooting, network mapping, and server/database management.
+- 🌱 **Learning:** Expanding my knowledge in Machine Learning (Python, TensorFlow) and advanced SQL.
 - 🤝 **Looking for:** Hands-on opportunities in IT Support, SysAdmin, or DevOps environments.
+
+<br>
+
+### 🔬 Current Research & Engineering
+
+**Custom C Compiler Development**  
+I am actively developing a custom C compiler for Windows with an ARM compilation target. My current focus is implementing the x86_64 backend code generator. This project requires direct handling of memory management, instruction translation, and core compilation phases (lexical/syntax analysis), allowing me to bridge the gap between high-level logic and hardware architecture.
+
+**IT Infrastructure & Networking**  
+Continually exploring system administration by studying network monitoring concepts, firewall configurations, and local environment setups. I value practical, hands-on troubleshooting to maintain secure and efficient architectures.
 
 <br>
 
 ### 🛠️ Tech Stack & Tools
 
+**Systems, Backend & Data**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,mysql" /> <br>
-  <img src="https://skillicons.dev/icons?i=php,html,css,js" /> <br>
-  <img src="https://skillicons.dev/icons?i=react,astro,nodejs" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,python,java,mysql,php" /> 
 </p>
 
-<br>
+**Web & Frameworks** *(Versatility)*  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,nodejs" /> 
+</p>
 
-### 📊 GitHub Stats
-
-[![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelecortiana&show_icons=true&theme=dark)](https://github.com/michelecortiana)
 <br>
 
 > [!NOTE]
