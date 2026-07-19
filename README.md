@@ -19,9 +19,6 @@
 **Custom C Compiler Development**  
 I am actively developing a custom C compiler for Windows with an ARM compilation target. My current focus is implementing the x86_64 backend code generator. This project requires direct handling of memory management, instruction translation, and core compilation phases (lexical/syntax analysis), allowing me to bridge the gap between high-level logic and hardware architecture.
 
-**IT Infrastructure & Networking**  
-Continually exploring system administration by studying network monitoring concepts, firewall configurations, and local environment setups. I value practical, hands-on troubleshooting to maintain secure and efficient architectures.
-
 <br>
 
 ### 🛠️ Tech Stack & Tools
