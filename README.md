@@ -1,27 +1,24 @@
-# Hello, I'm Michele! 👋
+# Hello, I'm Michele! 
 
 > Welcome to my GitHub profile.  
 > I am a Computer Engineering student at the University of Padua, deeply passionate about IT infrastructure, low-level systems, and operational problem-solving.
 
 <br>
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Studying:** Computer Engineering at the University of Padua.
-- ⚙️ **Focus:** Hardware troubleshooting, network mapping, and server/database management.
-- 🌱 **Learning:** Expanding my knowledge in Machine Learning (Python, TensorFlow) and advanced SQL.
-- 🤝 **Looking for:** Hands-on opportunities in IT Support, SysAdmin, or DevOps environments.
-
-<br>
-
-### 🔬 Current Research & Engineering
-
-**Custom C Compiler Development**  
-I am actively developing a custom C compiler for Windows with an ARM compilation target. My current focus is implementing the x86_64 backend code generator. This project requires direct handling of memory management, instruction translation, and core compilation phases (lexical/syntax analysis), allowing me to bridge the gap between high-level logic and hardware architecture.
+- **Studying:** Computer Engineering at the University of Padua.
+- **Focus:** Hardware troubleshooting, network mapping, and server/database management.
+- **Learning:** Expanding my knowledge in Machine Learning (Python, TensorFlow) and advanced SQL.
+- **Looking for:** Hands-on opportunities in IT Support, SysAdmin, or DevOps environments.
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+
+
+<br>
+
+### Tech Stack & Tools
 
 **Systems, Backend & Data**  
 <p align="left">
