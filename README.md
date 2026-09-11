@@ -9,7 +9,7 @@
 
 - **Studying:** Computer Engineering at the University of Padua.
 - **Focus:** Hardware troubleshooting, network mapping, and server/database management.
-- **Learning:** Expanding my knowledge in Machine Learning (Python, TensorFlow) and advanced SQL.
+- **Learning:** Expanding my knowledge in Machine Learning (Python, TensorFlow.
 - **Looking for:** Hands-on opportunities in IT Support, SysAdmin, or DevOps environments.
 
 <br>
@@ -27,7 +27,7 @@
 
 **Web & Frameworks** *(Versatility)*  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,nodejs" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /> 
 </p>
 
 <br>
